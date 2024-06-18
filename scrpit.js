@@ -17,6 +17,23 @@ const div14 = document.createElement('div');
 const div15 = document.createElement('div');
 const div16 = document.createElement('div');
 
+div1.classList.add('div');
+div2.classList.add('div');
+div3.classList.add('div');
+div4.classList.add('div');
+div5.classList.add('div');
+div6.classList.add('div');
+div7.classList.add('div');
+div8.classList.add('div');
+div9.classList.add('div');
+div10.classList.add('div');
+div11.classList.add('div');
+div12.classList.add('div');
+div13.classList.add('div');
+div14.classList.add('div');
+div15.classList.add('div');
+div16.classList.add('div');
+
 div1.textContent = 'hello cats';
 div2.textContent = 'hello cats';
 div3.textContent = 'hello cats';
@@ -33,6 +50,8 @@ div13.textContent = 'hello cats';
 div14.textContent = 'hello cats';
 div15.textContent = 'hello cats';
 div16.textContent = 'hello cats';
+
+
 
 container.appendChild(div1);
 container.appendChild(div2);
