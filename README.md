@@ -1,1 +1,1 @@
-# etch-a-sketch
+In this project I will be testing my skills in DOM manipulation to make something between a sketchpad and an etch-a-sketch. This will be the second to last project in the TOP basics course and I am excited at how far I've come in my programming skills!
