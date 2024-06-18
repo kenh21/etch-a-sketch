@@ -1,7 +1,9 @@
 .container {
-    background-color: blueviolet;
+    background-color: rgb(226, 43, 177);
+    font-size: 60px;
 }
 
-.div {
+div {
     border: 5px solid black;
 }
+
