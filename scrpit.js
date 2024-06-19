@@ -11,11 +11,11 @@ for (let i = 1; i <= 64; i++) {
 console.log(container);
 
 newDiv.addEventListener('mouseover', event => {
-    event.target.style.backgroundColor = "red";
+    event.target.style.backgroundColor = "rgb(133, 10, 101)";
 });
 
 newDiv.addEventListener('mouseout', event => {
-    event.target.style.backgroundColor = "rgb(226, 43, 177)";
+    setTimeout(function () {
+        event.target.style.backgroundColor = "rgb(226, 43, 177)";
+}, 3000);   
 });
-
-
