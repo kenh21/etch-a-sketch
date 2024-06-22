@@ -21,7 +21,7 @@ function getGridChoice() {
       container.appendChild(newDiv);
 
       newDiv.addEventListener('mouseover', event => {
-        event.target.style.backgroundColor = "rgb(133, 10, 101)";
+        event.target.style.backgroundColor = "white";
     });
     
     newDiv.addEventListener('mouseout', event => {
